@@ -1,4 +1,4 @@
-#Building AI-powered applications | programming solutions | innovative tech
+# Building AI-powered applications | programming solutions | innovative tech
 # 💫 About Me:
 Hi I am Shubhankar a FullStack Developer who likes to build Stuff throught code.I can Build Fullstack applications / Webapps which is scalable and userfriendly.<br><br>🔭 I’m currently working on ... an secret security project.<br>🌱 I’m currently learning Ruby and other languages/Frameworks.<br>👯 I’m looking to collaborate on Something that will bring value to the Human Race.<br>💀 My Recent project I made for a client https://www.bodymindbalance.in/ its an Medical website with 2 seprate website build in one. Both websites are seprate , the main website is for users to intract and the Admin website is for the staff to operate its more of a software with server side access.<br>📫 How to reach me: m4jason0001@gmail.com,<br>🔥Fun Fact i also Run a youtube channel.<br>
 

@@ -15,12 +15,16 @@ Hi I am Shubhankar a FullStack Developer who likes to build Stuff throught code.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason21333&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=jason21333&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jason21333&show_icons=true&theme=tokyonight&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason21333&layout=compact&theme=tokyonight&cache_seconds=86400" height="180"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jason21333&theme=tokyonight)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jason21333&theme=tokyonight" height="180"/>
+</p>
 
 
 

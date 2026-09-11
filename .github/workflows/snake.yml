@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: jason21333
           outputs: |
-                    dist/github-snake.svg?color_snake=#ff9100&color_dots=#1a1c23,#5e35b1,#7e57c2,#9575cd,#b39ddb
-                    dist/github-snake-dark.svg?color_snake=#ff9100&color_dots=#1a1c23,#5e35b1,#7e57c2,#9575cd,#b39ddb
+              dist/github-snake.svg?color_snake=#ff9100&color_dots=#1a1c23,#5e35b1,#7e57c2,#9575cd,#b39ddb
+              dist/github-snake-dark.svg?color_snake=#ff9100&color_dots=#1a1c23,#5e35b1,#7e57c2,#9575cd,#b39ddb
 
 
       - name: push github-snake.svg to the output branch

@@ -4,7 +4,7 @@ Hi I am Shubhankar a FullStack Developer who likes to build Stuff throught code.
 
 
 ## 🌐 Socials:
-[![YouTube](https://www.youtube.com/@TheGamingUniverseDudeOfficial/videos) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@TheGamingUniverseDudeOfficial/videos)
 
 
 # 💻 Tech Stack:

@@ -11,7 +11,7 @@ Hi I am Shubhankar a FullStack Developer who likes to build Stuff throught code.
 
 ### 🐍 My GitHub Contribution Snake
 
-<img src="https://githubusercontent.com" alt="GitHub Snake Animation" width="100%" />
+![snake gif](github-snake.svg)
 
 
 

@@ -13,9 +13,9 @@ Hi I am Shubhankar a FullStack Developer who likes to build Stuff throught code.
 ### 🐍 My GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
-  <img alt="GitHub Snake Animation" src="https://githubusercontent.com" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com" />
+  <img alt="GitHub Snake Animation" src="https://github.com" />
 </picture>
 
 

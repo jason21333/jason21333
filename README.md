@@ -18,6 +18,15 @@ Hi I am Shubhankar a FullStack Developer who likes to build Stuff throught code.
   <img alt="GitHub Snake Animation" src="https://github.com" />
 </picture>
 
+# 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://vercel.app" alt="jason21333's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Top Languages" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)

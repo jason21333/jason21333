@@ -14,10 +14,8 @@ Hi I am Shubhankar a FullStack Developer who likes to build Stuff throught code.
 ![snake gif](https://github.com/jason21333/jason21333/blob/output/github-snake-dark.svg)
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://vercel.app" alt="jason21333's GitHub Stats" height="195" />
-  <img src="https://vercel.app" alt="Top Languages" height="195" />
-</p>
+![Jason's GitHub Stats](https://vercel.app)
+
 
 
 
